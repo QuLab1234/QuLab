@@ -31,7 +31,7 @@ publishDate: '2023-11-08T00:00:00Z'
 publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-publication: '***Journal of Genetics and Genomics***,(2023),'
+publication: '***Journal of Genetics and Genomics***, (2023),'
 
 publication_short: ''
 
