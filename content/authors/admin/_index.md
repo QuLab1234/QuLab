@@ -6,7 +6,7 @@ title:  Jianan QU
 superuser: true
 
 # Role/position
-role: <font size=4><font color="Black">Professor, Department of Electronic and Computer Engineering</font> <br/> <font color="Black">Ph.D, Chinese Academy of Sciences</font> <br/> <font color="Black">Elected Fellow, Optica (www.optica.org) </font> <br/> <font color="Black">Elected Fellow, SPIE (www.spie.org) </font>  <br/><br/>  <font color="Black">E-mail eequ at ust.hk</font> <br/> <font color="Black">Department link  <a href="https://ece.hkust.edu.hk/eequ"><font color="Black"> <u> ece.hkust.edu.hk/eequ </u></font>  </a> </font> </font> 
+role: <font size=4><font color="Black">Professor, Department of Electronic and Computer Engineering</font> <br/> <font color="Black">Ph.D, Chinese Academy of Sciences</font> <br/> <font color="Black">Elected Fellow, Optica (www.optica.org) </font> <br/> <font color="Black">Elected Fellow, SPIE (www.spie.org) </font>  <br/> <br/>  <font color="Black">E-mail</font><font color="White">.</font><font color="Black">:</font><font color="White">.</font> <font color="Black">eequ at ust.hk</font> <br/> <font color="Black">Department link</font><font color="White">.</font><font color="Black">:</font><font color="White">.</font><br/> <font color="Black">  <a href="https://ece.hkust.edu.hk/eequ"><font color="Black">        <u> ece.hkust.edu.hk/eequ </u></font>  </a> </font> </font> 
 
 # Organizations/Affiliations
 
