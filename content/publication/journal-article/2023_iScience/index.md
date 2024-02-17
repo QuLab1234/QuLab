@@ -29,7 +29,7 @@ doi: 'DOI: 10.1016/j.isci.2023.106542'
 publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-publication: '***iScience***, (2023)'
+publication: '***iScience***, 26, 4,(2023)'
 
 publication_short: ''
 abstract: Long-term potentiation (LTP), which underlies learning and memory, can be induced by high-frequency electrical stimulation (HFS or HFES) and is thought to occur at the synapses of efferent projection. Here, the contralateral connectivity in mice auditory cortex was investigated to reveal the fundamental corticocortical connection properties. After HFES, plasticity was not observed at the terminal synapses at the recording site. The optogenetic HFS at the recording site of the interhemispheric cortical projections could not induce LTP, but HFES at the recording site could induce the interhemispheric cortical LTP. Our subsequent results uncovered that it is the cholecystokinin (CCK) released from the entorhino-neocortical pathway induced by HEFS that modulates the neuroplasticity of the afferent projections, including interhemispheric auditory cortical afferents. Our study illustrates a heterosynaptic mechanism as the basis for cortical plasticity. This regulation might contribute new spots for the understanding and treatment of neurological disorders.
