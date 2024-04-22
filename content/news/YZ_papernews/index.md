@@ -23,7 +23,7 @@ date: '2023-10-12'
 date_end: 
 all_day: false
 
-external_link: "https://scienmag.com/hkust-researchers-develop-an-innovative-microscope-platform-to-unveil-the-intricacies-of-skeletal-muscle-regeneration/"
+external_link: "https://phys.org/news/2023-10-microscope-platform-unveil-intricacies-skeletal.html"
 
 # Schedule page publish date (NOT talk date).
 # publishDate: '2017-01-01T00:00:00Z'
