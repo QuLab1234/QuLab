@@ -54,5 +54,5 @@ projects:
 
 ![12](/gallery/activities/2024/Group-2024-1.JPG)
 ![12](/gallery/activities/2024/Group-2024-2.JPG)
-
+![12](/gallery/activities/2024/Group-2024-3.JPG)
 {{% cta cta_link="../" cta_text="Back to gallery" %}}
