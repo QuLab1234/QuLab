@@ -10,13 +10,13 @@ headless: true
 weight: 1
 
 # Section title
-title:  "June 2023: Zhentao received the HKUST RedBird Academic Excellence Award"
+title:  "July 2024: Yiming and Zhentao received the HKUST RedBird Academic Excellence Award"
 
 # Section subtitle
 subtitle:
 
 # Date
-date: '2023-06-16'
+date: '2024-07-08'
 
 # images
 image:
@@ -47,7 +47,7 @@ design:
 
 <br />
 <font face=Times New Roman>
-Zhentao has been selected from a highly competitive pool of candidates to receive the HKUST RedBird Academic Excellence Award for Continuing PhD Students in the 2022-23 Academic Year.
+Yiming and Zhentao have been selected from a highly competitive pool of candidates to receive the HKUST RedBird Academic Excellence Award for Continuing PhD Students in the 2023-24 Academic Year.
 This award is made upon nomination by the School of Engineering and recommendation of the assessment panel following a rigorous review. As such, it is a very well-deserved award 
 in recognition of his academic excellence and leadership skills. Congratulations!<br />
 
