@@ -49,6 +49,6 @@ design:
 <font face=Times New Roman>
 Yiming and Zhentao have been selected from a highly competitive pool of candidates to receive the HKUST RedBird Academic Excellence Award for Continuing PhD Students in the 2023-24 Academic Year.
 This award is made upon nomination by the School of Engineering and recommendation of the assessment panel following a rigorous review. As such, it is a very well-deserved award 
-in recognition of his academic excellence and leadership skills. Congratulations!<br />
+in recognition of their academic excellence and leadership skills. Congratulations!<br />
 
 ![12](/gallery/news/202306Zhentao/featured.png)
