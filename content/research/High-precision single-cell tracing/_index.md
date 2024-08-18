@@ -72,6 +72,8 @@ and myeloid-lymphoid bipotent subtypes.
 
  ### **2. Satellite cell dynamics and interactions in muscle regeneration**
 
+ <img align="right" src="/imagess/C/muscle.jpg" alt="Pulpit rock" width="400" height="400" />
+
 <br/>
 <font face=Times New Roman>
 Skeletal muscle regeneration hinges on the coordinated efforts of muscle satellite cells (MuSCs) alongside various cellular components. Despite technical constraints, understanding the dynamic interactions between MuSCs and non-myogenic cells, notably myeloid cells, in live animals remains elusive. This study introduces a novel dual-laser multimodal nonlinear optical microscope platform to observe real-time interactions between MuSCs and non-myogenic cells during early muscle regeneration. Through 3D time-lapse imaging on live reporter mice, featuring red fluorescence protein (RFP)-labeled macrophages and yellow fluorescence protein (YFP)-labeled MuSCs, alongside autofluorescence tracking of reduced nicotinamide adenine dinucleotide (NADH), we monitored the spatiotemporal dynamics of their interactions. Our results suggest a transient nature of cell-cell contact between RFP+ macrophages/RFP- non-myogenic cells and YFP+ muscle stem/progenitor cells during activation and proliferation stages. Inhibiting macrophage infiltration revealed that direct contact between macrophages and MuSCs was dispensable for early MuSC activation but crucial for subsequent proliferation and differentiation, impacting intramuscular fibrosis. Neutrophil depletion in CCR2 deficient mice did not impede initial MuSC growth, shedding new light on myeloid cells' functions in muscle regeneration.
