@@ -83,6 +83,6 @@ Skeletal muscle regeneration hinges on the coordinated efforts of muscle satelli
 
 **Related articles:**
 <br />
-  * <font size=4><a href="https://doi.org/10.7554/eLife.52024">Yingzhu He, Youshan Heng, Zhongya Qin, Xiuqing Wei, Zhenguo Wu, Jianan Qu, (2023).
+  * <font size=4><a href="https://www.science.org/doi/10.1126/sciadv.adi1891">Yingzhu He, Youshan Heng, Zhongya Qin, Xiuqing Wei, Zhenguo Wu, Jianan Qu, (2023).
  <u>"ntravital microscopy of satellite cell dynamics and their interaction with myeloid cells during skeletal muscle regeneration"</u>. <i><b>Science Advances</i></b>, 2023;9,eadi1891</a></font>
 <br />
