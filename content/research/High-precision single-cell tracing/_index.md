@@ -7,7 +7,7 @@ widget: page # See https://wowchemy.com/docs/page-builder/
 headless: true # This file represents a page section.
 weight: 3 # Order that this section will appear.
 
-title: High-precision single-cell tracing
+title: High-Precision Tracing of Cell Dynamics and Their Interactions
   
 
 image:
@@ -69,3 +69,18 @@ and myeloid-lymphoid bipotent subtypes.
 <br />
  * <font size=4>NSFC/RGC Joint Research Scheme (N_HKUST603/19): “Study of the lineage relationship between hematopoietic stem cells and tissue-resident macrophages using a high-precision single-cell tracing technique”</font>
  </font>
+
+ ### **2. Satellite cell dynamics and interactions in muscle regeneration**
+
+<br/>
+<font face=Times New Roman>
+Skeletal muscle regeneration hinges on the coordinated efforts of muscle satellite cells (MuSCs) alongside various cellular components. Despite technical constraints, understanding the dynamic interactions between MuSCs and non-myogenic cells, notably myeloid cells, in live animals remains elusive. This study introduces a novel dual-laser multimodal nonlinear optical microscope platform to observe real-time interactions between MuSCs and non-myogenic cells during early muscle regeneration. Through 3D time-lapse imaging on live reporter mice, featuring red fluorescence protein (RFP)-labeled macrophages and yellow fluorescence protein (YFP)-labeled MuSCs, alongside autofluorescence tracking of reduced nicotinamide adenine dinucleotide (NADH), we monitored the spatiotemporal dynamics of their interactions. Our results suggest a transient nature of cell-cell contact between RFP+ macrophages/RFP- non-myogenic cells and YFP+ muscle stem/progenitor cells during activation and proliferation stages. Inhibiting macrophage infiltration revealed that direct contact between macrophages and MuSCs was dispensable for early MuSC activation but crucial for subsequent proliferation and differentiation, impacting intramuscular fibrosis. Neutrophil depletion in CCR2 deficient mice did not impede initial MuSC growth, shedding new light on myeloid cells' functions in muscle regeneration.
+
+<br />
+<br />
+
+**Related articles:**
+<br />
+  * <font size=4><a href="https://doi.org/10.7554/eLife.52024">Yingzhu He, Youshan Heng, Zhongya Qin, Xiuqing Wei, Zhenguo Wu, Jianan Qu, (2023).
+ <u>"ntravital microscopy of satellite cell dynamics and their interaction with myeloid cells during skeletal muscle regeneration"</u>. <i><b>Science Advances</i></b>, 2023;9,eadi1891</a></font>
+<br />
