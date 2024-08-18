@@ -69,7 +69,8 @@ and myeloid-lymphoid bipotent subtypes.
 <br />
  * <font size=4>NSFC/RGC Joint Research Scheme (N_HKUST603/19): “Study of the lineage relationship between hematopoietic stem cells and tissue-resident macrophages using a high-precision single-cell tracing technique”</font>
  </font>
-
+ <br />
+<br />
  ### **2. Satellite cell dynamics and interactions in muscle regeneration**
 
  <img align="right" src="/imagess/C/muscle.jpg" alt="Pulpit rock" width="400" height="400" />
@@ -86,3 +87,11 @@ Skeletal muscle regeneration hinges on the coordinated efforts of muscle satelli
   * <font size=4><a href="https://www.science.org/doi/10.1126/sciadv.adi1891">Yingzhu He, Youshan Heng, Zhongya Qin, Xiuqing Wei, Zhenguo Wu, Jianan Qu, (2023).
  <u>"ntravital microscopy of satellite cell dynamics and their interaction with myeloid cells during skeletal muscle regeneration"</u>. <i><b>Science Advances</i></b>, 2023;9,eadi1891</a></font>
 <br />
+
+
+**Related research grants:**
+<br />
+ * <font size=4>General Research Fund (16102518): “Label-free imaging of adipose tissue in vivo with integrated stimulated Raman scattering and two-photon fluorescence microscopy”
+Research Equipment Competition (REC14EG09): “High resolution stimulated Raman scattering (SRS) microscope system”
+Collaborative Research Fund (C6001-19EF): “High-resolution adaptive optics microscope system for live and deep imaging of biological tissues”
+</font>
