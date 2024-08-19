@@ -93,9 +93,7 @@ Skeletal muscle regeneration hinges on the coordinated efforts of muscle satelli
 <br />
  * <font size=4>General Research Fund (16102518): “Label-free imaging of adipose tissue in vivo with integrated stimulated Raman scattering and two-photon fluorescence microscopy”
 </font>
- * <font size=4>
-Research Equipment Competition (REC14EG09): “High resolution stimulated Raman scattering (SRS) microscope system”
+ * <font size=4>Research Equipment Competition (REC14EG09): “High resolution stimulated Raman scattering (SRS) microscope system”
 </font>
-* <font size=4>
-Collaborative Research Fund (C6001-19EF): “High-resolution adaptive optics microscope system for live and deep imaging of biological tissues”
+* <font size=4>Collaborative Research Fund (C6001-19EF): “High-resolution adaptive optics microscope system for live and deep imaging of biological tissues”
 </font>
