@@ -11,7 +11,7 @@ authors:
 superuser: false
 
 # Role/position
-role: <font color="Black"> B.S., Beijing Institute of Technology, Beijing, China <br/> E-mail rzhouaw at connect.ust.hk</font>
+role: <font color="Black"> M.S., Beijing Institute of Technology, Beijing, China <br/> E-mail rzhouaw at connect.ust.hk</font>
 
 _build:
   render: never

@@ -11,7 +11,7 @@ authors:
 superuser: false
 
 # Role/position
-role: <font color="Black"> B.S., BUAA, Beijing, China <br/> E-mail kliubg at connect.ust.hk</font>
+role: <font color="Black"> M.S., BUAA, Beijing, China <br/> E-mail kliubg at connect.ust.hk</font>
 
 _build:
   render: never
