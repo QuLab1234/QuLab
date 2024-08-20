@@ -20,7 +20,7 @@ cascade:
     render: never
     list: always
 
-weight: 5
+weight: 7
 
 user_groups:
   - Graduate students

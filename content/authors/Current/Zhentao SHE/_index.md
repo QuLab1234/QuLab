@@ -12,7 +12,7 @@ superuser: true
 # Role/position
 role: <font color="Black"> B.S., HUST, Wuhan, China <br/> E-mail zshe at connect.ust.hk</font>
 
-weight: 9
+weight: 4
 
 _build:
   render: never
