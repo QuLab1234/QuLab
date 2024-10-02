@@ -1,5 +1,5 @@
 ---
-title: "Oct. 2024: A paper revealing the neuroprotective role of microglia during the acute phase of a single spinal cord axon injury, achieved through a novel form of neuron-glia interaction, has been accepted by Nature Communications. Congratulations on the excellent collaboration and hard work of Wanjie, Yingzhu, and Yujun! We will celebrate more achievements based on your collaboration in the coming years." 
+title: "October 2024: A paper revealing the neuroprotective role of microglia during the acute phase of a single spinal cord axon injury, achieved through a novel form of neuron-glia interaction, has been accepted by Nature Communications. Congratulations on the excellent collaboration and hard work of Wanjie, Yingzhu, and Yujun! We will celebrate more achievements based on your collaboration in the coming years." 
 
 
 weight: 1
