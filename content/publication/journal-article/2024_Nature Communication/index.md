@@ -10,7 +10,7 @@ authors:
   - Jianan Y. Qu
 
 date: '2024-10-02T00:00:00Z'
-doi: 'https://www.biorxiv.org/content/10.1101/2024.04.13.589343v1.full'
+doi: '10.1101/2024.04.13.589343'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2024-10-02T00:00:00Z'
@@ -32,7 +32,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://www.biorxiv.org/content/10.1101/2024.04.13.589343v1.full
+url_pdf: https://www.biorxiv.org/content/10.1101/2024.04.13.589343v1.full.pdf
 
 projects: []
 
