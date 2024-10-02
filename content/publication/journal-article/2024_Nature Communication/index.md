@@ -1,5 +1,5 @@
 ---
-title: 'Microglial-Mediated Prevention of Axonal Degeneration in the Injured Spinal Cord: Insights from an In Vivo Imaging Study'
+title: 'In Vivo Imaging in Mouse Spinal Cord Reveals that Microglia Prevent Degeneration of Injured Axons'
 authors:
   - Wanjie Wu
   - Yingzhu He
