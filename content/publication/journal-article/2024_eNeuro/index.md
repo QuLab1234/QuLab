@@ -18,7 +18,7 @@ authors:
   - Jufang HE
 
 date: '2024-12-25T00:00:00Z'
-doi: 'doi.org/10.1523/ENEURO.0045-24.2024'
+doi: '10.1523/ENEURO.0045-24.2024'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2024-12-25T00:00:00Z'
