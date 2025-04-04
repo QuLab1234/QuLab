@@ -1,5 +1,5 @@
 ---
-title:  Cortical HFS-Induced Neo-Hebbian Local Plasticity Enhances Efferent Output Signal and Strengthens Afferent Input Connectivity
+title:  'Cortical HFS-Induced Neo-Hebbian Local Plasticity Enhances Efferent Output Signal and Strengthens Afferent Input Connectivity'
 authors:
   - Xiao LI
   - Xue WANG
