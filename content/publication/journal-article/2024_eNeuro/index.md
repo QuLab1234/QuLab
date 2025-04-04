@@ -42,7 +42,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: www.eneuro.org/content/eneuro/12/2/ENEURO.0045-24.2024.full.pdf
+
 
 projects: []
 
