@@ -1,16 +1,21 @@
 ---
-title: 'Caudal hematopoietic tissue supports definitive erythrocytes via epoa and is dispensable for definitive neutrophils'
+title:  'Cortical HFS-Induced Neo-Hebbian Local Plasticity Enhances Efferent Output Signal and Strengthens Afferent Input Connectivity'
 authors:
-  - Zhujuan Huang
-  - Yongtai Xu
-  - Zhongkai Qiu
-  - Yunyun Jiang
-  - Jiaye Wu
-  - Qing Liu
-  - Sicong He
-  - Jianan Y. Qu
-  - Jiahao Chen
-  - Jin Xu
+  - Xiao LI
+  - Xue WANG
+  - Xiaohan HU
+  - Peng TANG
+  - Congping CHEN
+  - Ling HE
+  - Mengying CHEN
+  - Stephen Temitayo BELLO
+  - Tao CHEN
+  - Xiaoyu WANG
+  - Yin Ting WONG
+  - Wenjian SUN
+  - Xi Chen
+  - Jianan QU
+  - Jufang HE
 
 date: '2024-02-06T00:00:00Z'
 doi: '10.1016/j.jgg.2024.02.001'
