@@ -32,7 +32,9 @@ publication_types: ['2']
 # Publication name and optional abbreviated publication name.
 publication: '***eNeuro***, (2024)'
 
-
+publication_short: ''
+abstract: Microglia, the primary immune cells in the central nervous system, play acritical role in regulating neuronal function and fate through their interactionwith neurons. Despite extensive research, the specific functions andmechanisms of microglia-neuron interactions remain incompletely under-stood. In this study, we demonstrate that microglia establish direct contactwith myelinated axons at Nodes of Ranvier in the spinal cord of mice. Thecontact associated with neuronal activity occurs in a random scanning pattern.In response to axonal injury, microglia rapidly transform their contact into arobust wrapping form, preventing acute axonal degeneration from extendingbeyond the nodes. This wrapping behavior is dependent on the function ofmicroglial P2Y12 receptors, which may be activated by ATP released throughaxonal volume-activated anion channels at the nodes. Additionally, voltage-gated sodium channels (NaV) and two-pore-domain potassium (K2P) channelscontribute to the interaction between nodes and glial cells following injury,and inhibition of NaV delays axonal degeneration. Through in vivo imaging,our findings reveal a neuroprotective role of microglia during the acute phaseof single spinal cord axon injury, achieved through neuron-glia interaction.
+  
 
 featured: false
 
