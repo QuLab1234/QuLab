@@ -17,11 +17,11 @@ authors:
   - Jianan QU
   - Jufang HE
 
-date: '2024-02-06T00:00:00Z'
-doi: '10.1016/j.jgg.2024.02.001'
+date: '2024-12-25T00:00:00Z'
+doi: 'doi.org/10.1523/ENEURO.0045-24.2024'
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2024-10-02T00:00:00Z'
+publishDate: '2024-12-25T00:00:00Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -30,7 +30,8 @@ publishDate: '2024-10-02T00:00:00Z'
 publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-publication: '***Journal of Genetics and Genomics***, (2024)'
+publication: '***eNeuro***, (2024)'
+
 
 publication_short: ''
  
