@@ -33,7 +33,7 @@ publication_types: ['2']
 publication: '***eNeuro***, (2024)'
 
 publication_short: ''
-abstract: High-frequency stimulation (HFS)-induced long–term potentiation (LTP) is generally regarded as a homosynaptic Hebbian-type LTP, where synaptic changes are thought to occur at the synapses that project from the stimulation site and terminate onto the neurons at the recording site. 
+abstract: High-frequency stimulation (HFS)-induced long–term potentiation (LTP) is generally regarded as a homosynaptic Hebbian-type LTP, where synaptic changes are thought to occur at the synapses that project from the stimulation site and terminate onto the neurons at the recording site.  In this study, we first investigated HFS-induced LTP on urethane-anesthetized rats and found that cortical HFS enhances neural responses at the recording site through the strengthening of local connectivity with nearby neurons at the stimulation site rather than through synaptic strengthening at the recording site. This enhanced local connectivity at the stimulation site leads to increased output propagation, resulting in signal potentiation at the recording site. Additionally, we discovered that HFS can also nonspecifically strengthen distant afferent synapses at the HFS site, thereby expanding its impact beyond local neural connections. 
   
 
 featured: false
