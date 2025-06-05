@@ -12,7 +12,7 @@ superuser: true
 # Role/position
 role: <font color="Black"> M.S., UCLA, Los Angeles, USA <br/> E-mail eepeianx at ust.hk</font>
 
-weight: 8.5
+weight: 8.05
 
 _build:
   render: never
