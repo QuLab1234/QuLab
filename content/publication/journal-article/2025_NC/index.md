@@ -23,7 +23,7 @@ publishDate: '2025-08-23T00:00:00Z'
 publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-publication: '***Nature Communications***, (2025)'
+publication: '***Nature Communications (Accepted)***, (2025)'
 
 
 
