@@ -1,20 +1,27 @@
 ---
-title:  Dynamic Retinal Pathology in Glaucoma Progression Revealed by High-Resolution Functional Imaging in Vivo
+title:  'Cortical HFS-Induced Neo-Hebbian Local Plasticity Enhances Efferent Output Signal and Strengthens Afferent Input Connectivity'
 authors:
-  - Yiming Fu
-  - Pham Binh Minh
-  - Sicong He
-  - Yingzhu He
-  - Zhongya Qin
-  - Ting Xie
-  - Jianan Qu
+  - Xiao LI
+  - Xue WANG
+  - Xiaohan HU
+  - Peng TANG
+  - Congping CHEN
+  - Ling HE
+  - Mengying CHEN
+  - Stephen Temitayo BELLO
+  - Tao CHEN
+  - Xiaoyu WANG
+  - Yin Ting WONG
+  - Wenjian SUN
+  - Xi Chen
+  - Jianan QU
+  - Jufang HE
 
-
-date: '2024-10-13T00:00:00Z'
-doi: '10.1038/s41467-024-53218-0'
+date: '2025-01-14T00:00:00Z'
+doi: '10.1523/ENEURO.0045-24.2024'
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2024-10-02T00:00:00Z'
+publishDate: '2025-01-14T00:00:00Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -28,14 +35,14 @@ publication: '***eNeuro***, (2025)'
 
 
 publication_short: ''
-abstract: Glaucoma, a complex and multifactorial neurodegenerative disease, is commonly associated with elevated intraocular pressure and primarily characterized by the progressive loss of retinal ganglion cells (RGCs) and their axons. Despite its prevalence, our understanding and treatment of this disease remain challenging due to the intricate interplay of various pathophysiological factors and the limited capability for in vivo functional study of the disease. In this work, we investigated the dynamic retinal pathology of glaucoma from onset to late stages through longitudinal in vivo high-resolution imaging in a silicone oil-induced ocular hypertension glaucoma mouse model. We developed an optimized adaptive optics two-photon excitation fluorescence microscopy (AO-TPEFM) technique for both morphological and functional assessments of pathological changes in the retina across three distinct glaucoma phenotypes with varying progression rates. Our AO-TPEFM technology visualized the complete process of functional and structural changes in the three most important retinal components related to glaucoma: microvascular vessels, microglia, and RGCs during disease progression. Notably, our functional imaging revealed pathological alterations in microvascular circulation, microglia state, and RGC functionalities at a very early stage of disease development when retinal morphology still appeared normal, providing critical insights into glaucoma pathogenesis. This research also demonstrates that AO-TPEFM is a powerful tool for the in vivo study of general retinal diseases.
+abstract: High-frequency stimulation (HFS)-induced long–term potentiation (LTP) is generally regarded as a homosynaptic Hebbian-type LTP, where synaptic changes are thought to occur at the synapses that project from the stimulation site and terminate onto the neurons at the recording site. In this study, we first investigated HFS-induced LTP on urethane-anesthetized rats and found that cortical HFS enhances neural responses at the recording site through the strengthening of local connectivity with nearby neurons at the stimulation site rather than through synaptic strengthening at the recording site. This enhanced local connectivity at the stimulation site leads to increased output propagation, resulting in signal potentiation at the recording site. Additionally, we discovered that HFS can also nonspecifically strengthen distant afferent synapses at the HFS site, thereby expanding its impact beyond local neural connections. This form of plasticity exhibits a neo-Hebbian characteristic as it exclusively manifests in the presence of cholecystokinin release, induced by HFS. The cortical HFS-induced local LTP was further supported by a behavioral task, providing additional evidence. Our results unveil a previously overlooked mechanism underlying cortical plasticity, synaptic plasticity is more likely to occur around the soma site of strongly activated cortical neurons rather than solely at their projection terminals.
 tags:
 featured: false
 
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://www.biorxiv.org/content/10.1101/2025.07.22.666227v1.full.pdf
+url_pdf: https://www.eneuro.org/content/eneuro/12/2/ENEURO.0045-24.2024.full.pdf
 
 projects: []
 
