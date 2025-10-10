@@ -10,11 +10,11 @@ authors:
   - Jianan Qu
 
 
-date: '2024-10-13T00:00:00Z'
-doi: '10.1038/s41467-024-53218-0'
+date: '2025-10-10T00:00:00Z'
+doi: '10.1101/2025.07.22.666227'
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2024-10-02T00:00:00Z'
+publishDate: '2025-10-10T00:00:00Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -23,8 +23,7 @@ publishDate: '2024-10-02T00:00:00Z'
 publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-publication: '***Laser  Photonics Reviews (Accepted)***, (2025)'
-
+publication: '***Laser & Photonics Reviews (Accepted)***, (2025)'
 
 
 
