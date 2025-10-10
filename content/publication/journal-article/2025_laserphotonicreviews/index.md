@@ -28,16 +28,20 @@ publication: '***Laser & Photonics Reviews (Accepted)***, (2025)'
 
 
 publication_short: ''
-abstract: High-frequency stimulation (HFS)-induced long–term potentiation (LTP) is generally regarded as a homosynaptic Hebbian-type LTP, where synaptic changes are thought to occur at the synapses that project from the stimulation site and terminate onto the neurons at the recording site. In this study, we first investigated HFS-induced LTP on urethane-anesthetized rats and found that cortical HFS enhances neural responses at the recording site through the strengthening of local connectivity with nearby neurons at the stimulation site rather than through synaptic strengthening at the recording site. This enhanced local connectivity at the stimulation site leads to increased output propagation, resulting in signal potentiation at the recording site. Additionally, we discovered that HFS can also nonspecifically strengthen distant afferent synapses at the HFS site, thereby expanding its impact beyond local neural connections. This form of plasticity exhibits a neo-Hebbian characteristic as it exclusively manifests in the presence of cholecystokinin release, induced by HFS. The cortical HFS-induced local LTP was further supported by a behavioral task, providing additional evidence. Our results unveil a previously overlooked mechanism underlying cortical plasticity, synaptic plasticity is more likely to occur around the soma site of strongly activated cortical neurons rather than solely at their projection terminals.
+abstract: Glaucoma, a complex and multifactorial neurodegenerative disease, is commonly associated with elevated intraocular pressure and primarily characterized by the progressive loss of retinal ganglion cells (RGCs) and their axons. Despite its prevalence, our understanding and treatment of this disease remain challenging due to the intricate interplay of various pathophysiological factors and the limited capability for in vivo functional study of the disease. In this work, we investigated the dynamic retinal pathology of glaucoma from onset to late stages through longitudinal in vivo high-resolution imaging in a silicone oil-induced ocular hypertension glaucoma mouse model. We developed an optimized adaptive optics two-photon excitation fluorescence microscopy (AO-TPEFM) technique for both morphological and functional assessments of pathological changes in the retina across three distinct glaucoma phenotypes with varying progression rates. Our AO-TPEFM technology visualized the complete process of functional and structural changes in the three most important retinal components related to glaucoma: microvascular vessels, microglia, and RGCs during disease progression. Notably, our functional imaging revealed pathological alterations in microvascular circulation, microglia state, and RGC functionalities at a very early stage of disease development when retinal morphology still appeared normal, providing critical insights into glaucoma pathogenesis. This research also demonstrates that AO-TPEFM is a powerful tool for the in vivo study of general retinal diseases.
 tags:
 featured: false
 
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://www.eneuro.org/content/eneuro/12/2/ENEURO.0045-24.2024.full.pdf
+url_pdf: https://www.biorxiv.org/content/10.1101/2025.07.22.666227v1.full.pdf
 
 projects: []
+
+---
+
+
 
 ---
 
