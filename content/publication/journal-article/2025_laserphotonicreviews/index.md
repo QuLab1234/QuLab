@@ -1,27 +1,20 @@
 ---
 title:  'Dynamic Retinal Pathology in Glaucoma Progression Revealed by High-Resolution Functional Imaging in Vivo'
 authors:
-  - Xiao LI
-  - Xue WANG
-  - Xiaohan HU
-  - Peng TANG
-  - Congping CHEN
-  - Ling HE
-  - Mengying CHEN
-  - Stephen Temitayo BELLO
-  - Tao CHEN
-  - Xiaoyu WANG
-  - Yin Ting WONG
-  - Wenjian SUN
-  - Xi Chen
-  - Jianan QU
-  - Jufang HE
+  - Yiming Fu
+  - Pham Binh Minh
+  - Sicong He
+  - Yingzhu He
+  - Zhongya Qin
+  - Ting Xie
+  - Jianan Qu
 
-date: '2025-01-14T00:00:00Z'
-doi: '10.1523/ENEURO.0045-24.2024'
+
+date: '2024-10-13T00:00:00Z'
+doi: '10.1038/s41467-024-53218-0'
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2025-01-14T00:00:00Z'
+publishDate: '2024-10-02T00:00:00Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -30,7 +23,8 @@ publishDate: '2025-01-14T00:00:00Z'
 publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-publication: '***eNeuro***, (2025)'
+publication: '***Laser  Photonics Reviews (Accepted)***, (2025)'
+
 
 
 
