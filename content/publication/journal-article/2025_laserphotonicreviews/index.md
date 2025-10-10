@@ -1,5 +1,5 @@
 ---
-title:  'Cortical HFS-Induced Neo-Hebbian Local Plasticity Enhances Efferent Output Signal and Strengthens Afferent Input Connectivity'
+title:  'Dynamic Retinal Pathology in Glaucoma Progression Revealed by High-Resolution Functional Imaging in Vivo'
 authors:
   - Xiao LI
   - Xue WANG
