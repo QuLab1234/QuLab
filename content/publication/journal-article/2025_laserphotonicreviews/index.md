@@ -23,7 +23,7 @@ publishDate: '2024-10-02T00:00:00Z'
 publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-publication: '***Laser  Photonics Reviews (Accepted)***, (2025)'
+publication: '***eNeuro***, (2025)'
 
 
 
