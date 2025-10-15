@@ -10,11 +10,11 @@ authors:
   - Jianan Y. Qu
 
 
-date: '2025-08-23T00:00:00Z'
-doi: '10.1101/2025.05.26.656230'
+date: '2025-10-15T00:00:00Z'
+doi: '10.1038/s41467-025-64251-y'
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2025-08-23T00:00:00Z'
+publishDate: '2025-10-15T00:00:00Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -23,7 +23,7 @@ publishDate: '2025-08-23T00:00:00Z'
 publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-publication: '***Nature Communications (Accepted)***, (2025)'
+publication: '***Nature Communications***, (2025)'
 
 
 
@@ -35,7 +35,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://www.biorxiv.org/content/10.1101/2025.05.26.656230v1.full.pdf+html
+url_pdf: https://www.nature.com/articles/s41467-025-64251-y.pdf
 
 projects: []
 
