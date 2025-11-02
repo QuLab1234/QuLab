@@ -28,7 +28,7 @@ publication: '***Laser  Photonics Reviews***, (2025)'
 
 
 publication_short: ''
-abstract: Glaucoma, a complex and multifactorial neurodegenerative disease, is commonly associated with elevated intraocular pressure and primarily characterized by the progressive loss of retinal ganglion cells (RGCs) and their axons. Despite its prevalence, our understanding and treatment of this disease remain challenging due to the intricate interplay of various pathophysiological factors and the limited capability for in vivo functional study of the disease. In this work, we investigated the dynamic retinal pathology of glaucoma from onset to late stages through longitudinal in vivo high-resolution imaging in a silicone oil-induced ocular hypertension glaucoma mouse model. We developed an optimized adaptive optics two-photon excitation fluorescence microscopy (AO-TPEFM) technique for both morphological and functional assessments of pathological changes in the retina across three distinct glaucoma phenotypes with varying progression rates. Our AO-TPEFM technology visualized the complete process of functional and structural changes in the three most important retinal components related to glaucoma: microvascular vessels, microglia, and RGCs during disease progression. Notably, our functional imaging revealed pathological alterations in microvascular circulation, microglia state, and RGC functionalities at a very early stage of disease development when retinal morphology still appeared normal, providing critical insights into glaucoma pathogenesis. This research also demonstrates that AO-TPEFM is a powerful tool for the in vivo study of general retinal diseases.
+abstract: 
 tags:
 featured: false
 
