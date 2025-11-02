@@ -35,7 +35,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://onlinelibrary.wiley.com/doi/epdf/10.1002/lpor.202501801
+url_pdf: 
 
 projects: []
 
