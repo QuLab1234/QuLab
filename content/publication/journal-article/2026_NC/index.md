@@ -12,7 +12,7 @@ authors:
 
 
 date: '2026-01-30T00:00:00Z'
-doi: '10.1101/2025.06.18.660335'
+doi: '10.1038/s41467-026-69419-8'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2025-10-15T00:00:00Z'
@@ -36,7 +36,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://www.biorxiv.org/content/10.1101/2025.06.18.660335v1.full.pdf+html
+url_pdf: https://www.nature.com/articles/s41467-026-69419-8_reference.pdf
 
 projects: []
 
