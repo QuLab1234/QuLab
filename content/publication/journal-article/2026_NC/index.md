@@ -1,5 +1,5 @@
 ---
-title:  Active Pixel Power Control for Crosstalk-Free All-Optical Neural Interrogation
+title:  Active pixel power control for crosstalk-free all-optical neural interrogation
 authors:
   - Gewei Yan
   - Guangnan Tian
