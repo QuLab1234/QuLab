@@ -24,7 +24,7 @@ publishDate: '2025-10-15T00:00:00Z'
 publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-publication: '***Nature Communications (Accepted)***, (2026)'
+publication: '***Nature Communications***, (2026)'
 
 
 
@@ -36,7 +36,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://www.nature.com/articles/s41467-026-69419-8_reference.pdf
+url_pdf: https://www.nature.com/articles/s41467-026-69419-8.pdf
 
 projects: []
 
