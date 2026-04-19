@@ -33,7 +33,7 @@ Peng Xi (Postdoc. 2004-2005; PhD, Chinese Academy of Sciences), Professor, the C
 
 Yuk Lam WONG (MPhil, 2006; B.S., Hong Kong University),
 
-Yicong Wu (PhD, 2007; B.S. & M.S., Zhejiang University), Senior Staff Scientist, National Institute of Biomedical Imaging and Bioengineering, NIH, USA (since 2011); Director, Cancer Imaging Program at National Cancer Institute, NIH, USA (2023)
+Yicong Wu (PhD, 2007; B.S. & M.S., Zhejiang University), Senior Staff Scientist, National Institute of Biomedical Imaging and Bioengineering, NIH, USA
 
 Tao Wu, (PhD, 2008; B.S., HUST, China), Research Scientist, Wellman Center for Photomedicine, Massachusetts General Hospital, USA (last contact)
 
@@ -43,11 +43,11 @@ Juanjuan Zheng (MPhil, 2009; M.S., Zhejiang University), Specialist, NIO NextEV 
 
 Min Wang (MPhil, 2010; B.S., Zhejiang University), Senior Engineer, ASM Pacific Technology, Hong Kong, China
 
-Dong Li (PhD, 2011; B.S. Zhejiang University), Professor, Institute of Biophysics, the Chinese Academy of Sciences (since 2015); Professor, School of Life Sciences, Tsinghua University (2023)
+Dong Li (PhD, 2011; B.S. Zhejiang University), Professor, Institute of Biophysics, the Chinese Academy of Sciences
 
 Wei Zheng (PhD, 2011; B.S. Zhejiang University), Professor, Shenzhen Institute of Advanced Technology, the Chinese Academy of Sciences
 
-Wei Zhang (MPhil, 2012; B.S., Fudan University), Senior Engineer, Micron Semiconductor Asia, Singapore
+Wei Zhang (MPhil, 2012; B.S., Fudan University), Marketing Director, Shenzhen Sicarrier Industry Machines, China
 
 Seng Khoon Teh (PhD student, 2011-2013; B.S.&M.S., National University of Singapore), Senior manager, Johnson and Johnson. 
 
@@ -59,11 +59,13 @@ Qiqi Sun (PhD, 2017; B.S., Zhejiang University), Senior R&D  Engineer, Edan Inst
 
 Sicong He (PhD, 2017; B.S., Zhejiang University), Assistant Professor, School of Life Science, SUSTech, China
 
-Xuesong Li (PhD, 2018; B.S., Zhejiang University), Postdoc Fellow, National Institute of Biomedical Imaging and Bioengineering, NIH, USA (since 2018); Assistant Professor, School of Life Science, SUSTech, China (2024)
+Xuesong Li (PhD, 2018; B.S., Zhejiang University), Postdoc Fellow, National Institute of Biomedical Imaging and Bioengineering, NIH, USA
 
 Congping Chen (PhD, 2021; B.S., HUST), Senior R&D Engineer, Mindray Medic, Shenzhen, China
 
 Zhongya Qin (PhD, 2021; B.S., Zhejiang University), Senior R&D  Engineer, 2012 Lab, Huawei Technlogies, Shenzhen, China
+
+Wanjie Wu (PhD, 2023; B.S., Zhejiang University), Senior R&D  Engineer, Huawei Technlogies, Shenzhen, China
 
 </font>
 </font>
