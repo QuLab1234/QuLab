@@ -51,7 +51,7 @@ Wei Zhang (MPhil, 2012; B.S., Fudan University), Marketing Director, Shenzhen Si
 
 Seng Khoon Teh (PhD student, 2011-2013; B.S.&M.S., National University of Singapore), Senior manager, Johnson and Johnson. 
 
-Yan Zeng (PhD, 2014; B.S., Zhejiang University), Home Domain Project Leader & Standard Director, Huawei Technologies, Shenzhen
+Yan Zeng (PhD, 2014; B.S., Zhejiang University), Home Domain Project Leader & Standard Director, Huawei Technologies
 
 Jun Jiang (MPhil, 2014; B.S., Shandong University), PhD, Duke University; Senior Engineer, KLA, USA
 
