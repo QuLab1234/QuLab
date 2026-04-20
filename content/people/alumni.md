@@ -48,7 +48,7 @@ Wei Zheng (PhD, 2011; B.S. Zhejiang University), Professor, Shenzhen Institute o
 
 Wei Zhang (MPhil, 2012; B.S., Fudan University), Senior Engineer, Micron Semiconductor Asia, Singapore; Marketing Director (Metrology & Inspection), Shenzhen SiCarrier Technologies Co., Ltd., Shenzhen, China
 
-Seng Khoon Teh (PhD student, 2011-2013; B.S.&M.S., National University of Singapore), Senior manager, Johnson and Johnson. 
+Seng Khoon Teh (PhD student, 2011-2013; B.S.&M.S., National University of Singapore), Senior manager, Johnson and Johnson
 
 Yan Zeng (PhD, 2014; B.S., Zhejiang University), Standard Director of Optical Access, Huawei Technologies, Shenzhen, China
 
