@@ -43,7 +43,7 @@ Juanjuan Zheng (MPhil, 2009; M.S., Zhejiang University), Specialist, NIO NextEV 
 
 Min Wang (MPhil, 2010; B.S., Zhejiang University), Senior Engineer, ASM Pacific Technology, Hong Kong, China
 
-Dong Li (PhD, 2011; B.S. Zhejiang University), Xinghua Chair Professor, School of Life Sciences, Tsinghua University
+Dong Li (PhD, 2011; B.S. Zhejiang University), Xinghua Chair Professor, School of Life Sciences, Tsinghua University, China
 
 Wei Zheng (PhD, 2011; B.S. Zhejiang University), Professor, Shenzhen Institute of Advanced Technology, the Chinese Academy of Sciences
 
@@ -57,13 +57,13 @@ Jun Jiang (MPhil, 2014; B.S., Shandong University), PhD, Duke University; Senior
 
 Qiqi Sun (PhD, 2017; B.S., Zhejiang University), Senior R&D  Engineer, Edan Instruments, Shenzhen, China
 
-Sicong He (PhD, 2017; B.S., Zhejiang University), Assistant Professor, School of Life Science, SUSTech, China
+Sicong He (PhD, 2017; B.S., Zhejiang University), Assistant Professor, School of Life Science, South University of Science and Technology, China
 
-Xuesong Li (PhD, 2018; B.S., Zhejiang University), Postdoc Fellow, National Institute of Biomedical Imaging and Bioengineering, NIH, USA (since 2018); Assistant Professor, School of Life Sciences, SUSTech, China (2026)
+Xuesong Li (PhD, 2018; B.S., Zhejiang University), Postdoc Fellow, National Institute of Biomedical Imaging and Bioengineering, NIH, USA (since 2018); Assistant Professor, School of Life Sciences, South University of Science and Technology, China (2026)
 
 Congping Chen (PhD, 2021; B.S., HUST), Senior R&D Engineer, Mindray Medic, Shenzhen, China
 
-Zhongya Qin (PhD, 2021; B.S., Zhejiang University), Senior R&D  Engineer, 2012 Lab, Huawei Technlogies, China； Chief R&D Engineer and Team Leader, Shenzhen SiCarrier Technologies Co., Ltd., Shenzhen, China
+Zhongya Qin (PhD, 2021; B.S., Zhejiang University), Senior R&D  Engineer, 2012 Lab, Huawei Technlogies, China；Chief R&D Engineer and Team Leader, Shenzhen SiCarrier Technologies Co., Ltd., Shenzhen, China
 
 Wanjie Wu (PhD, 2023; B.S., Zhejiang University), Senior R&D  Engineer, Huawei Technlogies, Shenzhen, China
 
