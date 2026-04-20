@@ -31,7 +31,7 @@ Balwin Chan (MPhil, 2003; B.S., HKUST, Hong Kong, China), Senior Technician, HKU
 
 Peng Xi (Postdoc. 2004-2005; PhD, Chinese Academy of Sciences), Professor, the College of Future Technology, Peking University, China
 
-Yuk Lam WONG (MPhil, 2006; B.S., Hong Kong University),
+Yuk Lam WONG (MPhil, 2006; B.S., Hong Kong University)
 
 Yicong Wu (PhD, 2007; B.S. & M.S., Zhejiang University), Senior Staff Scientist, National Institute of Biomedical Imaging and Bioengineering, NIH, USA
 
