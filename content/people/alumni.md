@@ -14,10 +14,7 @@ design:
 ---
 
 
-<font size='4'>
-<font face=Times New Roman>
 
-Zhijian Huang (Postdoc, 1998-99; PhD, HUST, China), Senior Network Solution Manager, ---
 widget: blank
 headless: true
 weight: 80
@@ -66,11 +63,11 @@ Dong Li (PhD, 2011; B.S. Zhejiang University), Xinghua Chair Professor, School o
 
 Wei Zheng (PhD, 2011; B.S. Zhejiang University), Professor, Shenzhen Institute of Advanced Technology, the Chinese Academy of Sciences
 
-Wei Zhang (MPhil, 2012; B.S., Fudan University), Marketing Director, Shenzhen SiCarrier Industry Machines Co., Ltd., Shenzhen，China
+Wei Zhang (MPhil, 2012; B.S., Fudan University), Senior Engineer, Micron Semiconductor Asia, Singapore; Marketing Director (Metrology & Inspection), Shenzhen SiCarrier Technologies Co., Ltd., Shenzhen, China
 
 Seng Khoon Teh (PhD student, 2011-2013; B.S.&M.S., National University of Singapore), Senior manager, Johnson and Johnson. 
 
-Yan Zeng (PhD, 2014; B.S., Zhejiang University), Home Domain Project Leader & Standard Director, Huawei Technologies Co., Ltd., Shenzhen, China
+Yan Zeng (PhD, 2014; B.S., Zhejiang University), Standard Director of Optical Access, Huawei Technologies, Shenzhen, China
 
 Jun Jiang (MPhil, 2014; B.S., Shandong University), PhD, Duke University; Senior Engineer, KLA, USA
 
