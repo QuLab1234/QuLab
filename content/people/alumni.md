@@ -31,7 +31,7 @@ Balwin Chan (MPhil, 2003; B.S., HKUST, Hong Kong, China), Senior Technician, HKU
 
 Peng Xi (Postdoc. 2004-2005; PhD, Chinese Academy of Sciences), Professor, the College of Future Technology, Peking University, China
 
-Yuk Lam WONG (MPhil, 2006; B.S., Hong Kong University),
+Yuk Lam WONG (MPhil, 2006; B.S., Hong Kong University)
 
 Yicong Wu (PhD, 2007; B.S. & M.S., Zhejiang University), Senior Staff Scientist, National Institute of Biomedical Imaging and Bioengineering, NIH, USA
 
@@ -49,7 +49,7 @@ Wei Zheng (PhD, 2011; B.S. Zhejiang University), Professor, Shenzhen Institute o
 
 Wei Zhang (MPhil, 2012; B.S., Fudan University), Marketing Director, Shenzhen SiCarrier Industry Machines Co., Ltd., Shenzhen，China
 
-Seng Khoon Teh (PhD student, 2011-2013; B.S.&M.S., National University of Singapore), Senior manager, Johnson and Johnson. 
+Seng Khoon Teh (PhD student, 2011-2013; B.S.&M.S., National University of Singapore), Senior manager, Johnson and Johnson
 
 Yan Zeng (PhD, 2014; B.S., Zhejiang University), Home Domain Project Leader & Standard Director, Huawei Technologies
 
