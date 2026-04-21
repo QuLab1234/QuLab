@@ -54,7 +54,7 @@ Yan Zeng (PhD, 2014; B.S., Zhejiang University), Standard Director of Optical Ac
 
 Jun Jiang (MPhil, 2014; B.S., Shandong University), PhD, Duke University; Senior Engineer, KLA, USA
 
-Qiqi Sun (PhD, 2017; B.S., Zhejiang University), Senior R&D  Engineer, Edan Instruments, Inc., Shenzhen, china
+Qiqi Sun (PhD, 2017; B.S., Zhejiang University), Senior R&D  Engineer, Edan Instruments, Inc., Shenzhen, China
 
 Sicong He (PhD, 2017; B.S., Zhejiang University), Assistant Professor, School of Life Science, South University of Science and Technology, China
 
