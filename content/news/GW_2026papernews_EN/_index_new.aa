@@ -1,0 +1,58 @@
+---
+# An instance of the Blank widget.
+# Documentation: https://wowchemy.com/docs/page-builder/
+widget: blank
+
+# This file represents a page section.
+headless: true
+
+# Order that this section appears on the page.
+weight: 1
+
+# Section title
+title: "October 2023: In the news of \"HKUST researchers develop an innovative microscope platform to unveil the intricacies of skeletal muscle regeneration\""  
+
+# Section subtitle
+subtitle:
+#external_link: "https://phys.org/news/2023-10-microscope-platform-unveil-intricacies-skeletal.html"
+# Date
+date: '2023-10-12'
+
+# images
+image:
+ placement: 1
+ caption: 
+ focal_point: "Center"
+ preview_only: true
+  
+
+# Section design
+
+design:
+  # Use a 1-column layout
+  columns: "2"
+  # Use a dark navy background with light text.
+  background:
+    color: 'navy'
+    text_color_light: true
+  view: 3
+---
+
+<!--more-->
+
+<br />
+
+
+
+![12](/gallery/news/yz/featured.jpg)
+<br />
+
+**Related links:** 
+<br />
+ * <font size=4><a href="https://phys.org/news/2023-10-microscope-platform-unveil-intricacies-skeletal.html">PHYS ORG: Researchers develop an innovative microscope platform to unveil the intricacies of skeletal muscle regeneration</u>.</font>
+ * <font size=4><a href="https://hkust.edu.hk/zh-hans/news/research-and-innovation/hkust-researchers-develop-innovative-microscope-platform-unveil"> 科大新闻：科大研究团队研发创新显微镜平台 揭示骨骼肌再生中的复杂动态过程</u></font>
+<br />
+
+<br />
+
+
