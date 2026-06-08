@@ -1,5 +1,6 @@
 ---
 title:  A conserved ER protein prevents lipotoxicity by stimulating the key enzyme in glycerolipid synthesis
+authors:
   - Yan Li
   - Siwei Huang
   - Lam Shing Chan
