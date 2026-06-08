@@ -17,7 +17,7 @@ authors:
   - Ho Yi Mak
 
 date: '2026-05-37T00:00:00Z'
-doi: 'doi.org/10.1038/s41467-026-72786-x'
+doi: '10.1038/s41467-026-72786-x'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2026-01-07T00:00:00Z'
