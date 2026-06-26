@@ -10,7 +10,8 @@ headless: true
 weight: 1
 
 # Section title
-title:  "Congratulations to Yiming, Gewei and Zhentao on the publication of their excellent work, "Optical Windows for Transcranial Brain Imaging in Living Mice, Skull Thinning, Clearing, and Beyond", in Advanced Science!"
+title:  "Congratulations to Yiming, Gewei and Zhentao on the publication of their excellent work——Optical Windows for Transcranial Brain Imaging in Living Mice, Skull Thinning, Clearing, and Beyond——in Advanced Science!"
+
 
 # Section subtitle
 subtitle:
