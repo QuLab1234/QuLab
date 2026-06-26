@@ -1,5 +1,5 @@
 ---
-title:  Optical Windows for Transcranial Brain Imaging in Living Mice: Skull Thinning, Clearing, and Beyond
+title:  Optical Windows for Transcranial Brain Imaging in Living Mice, Skull Thinning, Clearing, and Beyond
 authors:
   - Yiming Fu
   - Gewei Yan
