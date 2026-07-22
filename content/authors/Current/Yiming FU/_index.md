@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: <font color="Black"> B.S., Zhejiang University, Hangzhou, China <br/> E-mail yfuaq at connect.ust.hk</font>
+role: <font color="Black"> B.S., Zhejiang University, Hangzhou, China <br/> E-mail eeyimingfu at ust.hk</font>
 
 weight: 1
 
