@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: <font color="Black"> M.S., UCLA, Los Angeles, USA <br/> E-mail eepeianx at ust.hk</font>
+role: <font color="Black"> M.S., UCLA, Los Angeles, USA <br/> E-mail pxiaoac at connect.ust.hk</font>
 
 weight: 8.05
 
