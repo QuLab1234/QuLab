@@ -66,6 +66,7 @@ Zhongya Qin (PhD, 2021; B.S., Zhejiang University), Senior R&D  Engineer, 2012 L
 
 Wanjie Wu (PhD, 2023; B.S., Zhejiang University), Senior R&D  Engineer, Huawei Technologies Co., Ltd., Shenzhen, China
 
+Yingzhu He (PhD, 2024; B.S., Zhejiang University), Senior R&D Engineer, Shenzhen SiCarrier Technologies Co., Ltd., Shenzhen, China
 </font>
 </font>
 
