@@ -7,7 +7,7 @@ authors:
   - HE, Yingzhu 
 
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
 # Role/position
 role: <font color="Black"> B.S., Zhejiang University, Hangzhou, China <br/> Email yhebi at connect.ust.hk</font>
