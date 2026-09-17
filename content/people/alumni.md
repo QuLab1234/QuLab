@@ -66,6 +66,8 @@ Zhongya Qin (PhD, 2021; B.S., Zhejiang University), Senior R&D  Engineer, 2012 L
 
 Wanjie Wu (PhD, 2023; B.S., Zhejiang University), Senior R&D  Engineer, Huawei Technologies Co., Ltd., Shenzhen, China
 
+Jonathan Ting (MPhil, 2023; B.S., Hong Kong University of Science and Technology), Research Assistant, Hong Kong Center for Neurodegenerative Diseases (HKCeND), Hong Kong, China
+
 Yingzhu He (PhD, 2024; B.S., Zhejiang University), Senior R&D Engineer, Shenzhen SiCarrier Technologies Co., Ltd., Shenzhen, China
 
 </font>
