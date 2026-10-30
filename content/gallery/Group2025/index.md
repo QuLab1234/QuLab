@@ -1,5 +1,5 @@
 ---
-title: "2026"
+title: "2025"
 
 event: 
 event_url: 
@@ -52,6 +52,6 @@ projects:
 <!--more-->
 
 
-![12](/gallery/activities/2026/Group-2024-1.JPG)
+![12](/gallery/activities/2025/Group-2025-1.JPG)
 
 {{% cta cta_link="../" cta_text="Back to gallery" %}}
