@@ -52,6 +52,6 @@ projects:
 <!--more-->
 
 
-![12](/gallery/activities/2026/Group-2026-1.JPG)
+![12](/gallery/activities/2026/Group-2026-1.PNG)
 
 {{% cta cta_link="../" cta_text="Back to gallery" %}}
