@@ -55,4 +55,5 @@ projects:
 ![12](/gallery/activities/2026/Group-2026-1.PNG)
 ![12](/gallery/activities/2026/Group-2026-2.PNG)
 ![12](/gallery/activities/2026/Group-2026-3.PNG)
+![12](/gallery/activities/2026/Group-2026-4.PNG)
 {{% cta cta_link="../" cta_text="Back to gallery" %}}
