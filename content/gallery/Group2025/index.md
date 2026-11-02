@@ -52,9 +52,9 @@ projects:
 <!--more-->
 
 
-![12](/gallery/activities/2025/Group-2025-1.JPG)
 ![12](/gallery/activities/2025/Group-2025-2.PNG)
 ![12](/gallery/activities/2025/Group-2025-3.PNG)
+![12](/gallery/activities/2025/Group-2025-1.JPG)
 ![12](/gallery/activities/2025/Group-2025-4.PNG)
 ![12](/gallery/activities/2025/Group-2025-5.PNG)
 
